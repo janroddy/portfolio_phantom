@@ -23,7 +23,7 @@ github_username: 'janroddy'
 
 # Build settings
 markdown: kramdown
-remote-theme: jamigibbs/phantom
+#theme: jamigibbs/phantom
 plugins:
   - jekyll-paginate-v2
 
