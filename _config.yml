@@ -23,7 +23,7 @@ github_username: 'janroddy'
 
 # Build settings
 markdown: kramdown
-#theme: jamigibbs/phantom
+remote-theme: jamigibbs/phantom
 plugins:
   - jekyll-paginate-v2
 
@@ -98,5 +98,3 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-
-theme: jekyll-theme-minimal
