@@ -6,7 +6,7 @@
 title: "Hello. I'm Jan Roddy."
 email: 'jan.roddy.egmail.com'
 description: "I'm a Computer Science Master's student from Missoula Montana."
-baseurl: /portfolio/
+baseurl: "/portfolio"
 url: "https://janroddy.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'janroddy'
 
