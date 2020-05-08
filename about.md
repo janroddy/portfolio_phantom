@@ -11,14 +11,13 @@ permalink: /about/
 * Fundamentals of Computer Science 2
 
 
-[Purls & Poodles](http://webdev.cs.umt.edu/~jr204995/).
 
 
 
 ## Web Programming
 
 Full Stack web development experience with PHP, Angular, MySQL
-
+[Purls & Poodles](http://webdev.cs.umt.edu/~jr204995/).
 
 ## Data Visualization  
 
